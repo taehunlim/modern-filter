@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fda0174c-44db-4464-98db-c60cece470f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/List.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/ListContainer.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/actions.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/actions/actions.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/actions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/actions/types.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/block-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/components/List.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/fixtures/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/fixtures/tasks.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/reducers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/reducers/reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/redux/actions/actions.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/redux/actions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/redux/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/redux/reducers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/redux/reducers/reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/redux/redux.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/sort-arrow-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/api.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/List.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/List/List.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/List/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/ListContainer.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/ListContainer/ListContainer.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/ListContainer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/hooks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/hooks/useTypedSelector.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/pages/Home.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/actions.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/actions/actions.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/actions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/actions/types.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/reducers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov-report/src/redux/reducers/reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List/List.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List/List.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListContainer/ListContainer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListContainer/ListContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useEffectOnce.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useTypedSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/webpack.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/webpack.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/webpack.prod.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BkH2eELAc18x5uTN5AcKmeFhZC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jackson/Desktop/modern-filter",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/jackson/Desktop/modern-filter/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fda0174c-44db-4464-98db-c60cece470f5" name="Changes" comment="" />
+      <created>1657442956647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657442956647</updated>
+      <workItem from="1657442957815" duration="96000" />
+      <workItem from="1657443057480" duration="126000" />
+      <workItem from="1657443345238" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
